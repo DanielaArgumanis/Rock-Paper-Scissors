@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-React Js + Redux
+React Js + Redux + TEST
